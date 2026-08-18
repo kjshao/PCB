@@ -12,3 +12,4 @@
 - [高频高速高端PCB用填料种类、性能要求与厂家一页式整理](docs/high-frequency-high-speed-pcb-fillers-one-page.md)
 - [高频高速高端PCB材料总表一页式整理](docs/high-frequency-high-speed-pcb-premium-materials-master-table.md)
 - [高频高速高端PCB材料进口路线与国产供应链方向对照一页式整理](docs/high-frequency-high-speed-pcb-premium-materials-import-vs-domestic.md)
+- [高频高速PCB用树脂路线对比表：PTFE vs 碳氢路线 vs PPO/PPE](docs/high-frequency-high-speed-pcb-ptfe-vs-hydrocarbon-vs-ppo-compare.md)
